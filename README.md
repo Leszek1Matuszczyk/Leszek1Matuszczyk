@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Leszek1Matuszczyk
-- 👀 I’m interested in embedded systems, plc programing, hmi scada visualisation.
+- 👀 I’m interested in embedded systems(Arduino, STM32), plc programing(TIA PORTAL, STEP7), hmi scada visualisation.
 - I’m currently learning how to create usefull AI model in edge AI field
 - I’m looking to collaborate on fun embedded systems because i like doing stuff just for Joy of making stuff
 - 📫 How to reach me   Leszekmatuszczyk@gmail.com 
